@@ -1,7 +1,5 @@
 Test Git Quick Start Demo
 
-ad
-perubahan
-g
+habis hapus nich
 
 coba di branch baru ya gaes
